@@ -1,0 +1,6 @@
+1 4
+_1_
+ABCDE	1	0	 [MAP]
+ACBDE	2	0	 [JAC]
+ACDBE	3	0	 [DAT]
+ABCDE	4	1	+[DAT]
